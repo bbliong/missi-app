@@ -6,7 +6,7 @@ import {mainColors} from '../../utils/colors';
 const SplashScreen = ({navigation}) => {
   useEffect(() => {
     setTimeout(() => {
-      navigation.navigate('Homepage');
+      navigation.navigate('MainApp');
     }, 2000);
   }, [navigation]);
 
