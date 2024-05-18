@@ -1,4 +1,4 @@
-package com.missiapp;
+package com.missi.app;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

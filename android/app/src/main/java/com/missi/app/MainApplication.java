@@ -1,4 +1,4 @@
-package com.missiapp;
+package com.missi.app;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
